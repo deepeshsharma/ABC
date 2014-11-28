@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ABC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="md__drawerOpenIndicatorDesc">Close drawer</string>
+    <string name="md__drawerClosedIndicatorDesc">Open drawer</string>
+    
+    <string-array name="colors" translatable="false">
+        <item>#99cc00</item>
+		<item>#33b5e5</item>
+        <item>#0099cc</item>
+		<item>#547bca</item>
+		<item>#aa66cc</item>
+        <item>#9933cc</item>
+        <item>#669900</item>
+		<item>#aeb857</item>
+        <item>#cc0000</item>
+		<item>#df5948</item>
+		<item>#ff4444</item>
+		<item>#ae6b23</item>
+		<item>#ff8800</item>
+		<item>#e5ae4f</item>
+		<item>#ffbb33</item>
+        <item>#cccccc</item>
+        <item>#888888</item>
+    </string-array>
+    <string-array name="names" translatable="false">
+        <item>APPLE</item>
+        <item>BOY</item>
+        <item>CAT</item>
+        <item>DOG</item>
+        <item>ELEPHANT</item>
+        <item>FISH</item>
+        <item>GUN</item>
+        <item>HEN</item>
+        <item>INK POT</item>
+        <item>JUG</item>
+        <item>KITE</item>
+        <item>LION</item>
+        <item>MONKEY</item>
+        <item>NEST</item>
+        <item>ORANGE</item>
+        <item>PARROT</item>
+        <item>QUEEN</item>
+        <item>RAT</item>
+        <item>SHIP</item>
+        <item>TELEPHONE</item>
+        <item>UMBRELLA</item>
+        <item>VAN</item>
+        <item>WATCH</item>
+        <item>X-MAS</item>
+        <item>YAK</item>
+        <item>ZEBRA</item>
+    </string-array>
+    
+    <string-array name="names_hindi" translatable="false">
+        <item>अ</item>
+        <item>आ</item>
+        <item>इ</item>
+        <item>ई </item>
+        <item>ELEPHANT</item>
+        <item>FISH</item>
+        <item>GUN</item>
+        <item>HEN</item>
+        <item>INK POT</item>
+        <item>JUG</item>
+        <item>KITE</item>
+        <item>LION</item>
+        <item>MONKEY</item>
+        <item>NEST</item>
+        <item>ORANGE</item>
+        <item>PARROT</item>
+        <item>QUEEN</item>
+        <item>RAT</item>
+        <item>SHIP</item>
+        <item>TELEPHONE</item>
+        <item>UMBRELLA</item>
+        <item>VAN</item>
+        <item>WATCH</item>
+        <item>X-MAS</item>
+        <item>YAK</item>
+        <item>ZEBRA</item>
+    </string-array>
+
+</resources>
